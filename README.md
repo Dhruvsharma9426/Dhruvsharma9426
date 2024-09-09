@@ -1,0 +1,4 @@
+Hi, I'm Dhruv Sharma, a forward-thinking Final year B.E. Computer Science student 🎓 driven by a passion for technology and innovation.
+📚 With a solid foundation in leadership and corporate understanding, I am seeking to deepen my technical expertise while fostering creativity and innovation. Proficient in C++, DSA, DBMS, Python, Blockchain, and Machine Learning, I aspire to hands-on experience in cutting-edge technical projects.
+🚀 My journey involves continuous skill enhancement, staying updated with the latest advancements in computer engineering, and crafting innovative solutions that improve lives. I'm committed to growth and aspire to take on leadership roles, collaborate with diverse teams, and adapt to the ever-evolving landscape of technology.
+Let's connect and explore opportunities to innovate, collaborate, and shape a brighter technological future together! ✨
